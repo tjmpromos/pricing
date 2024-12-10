@@ -1,7 +1,7 @@
 {
   "caption": "Cloisonné Pins",
   "footnotes": [],
-  "priceMultiplier" : null,
+  "priceMultiplier" : 1,
   "pricable": [
     "100",
     "200",

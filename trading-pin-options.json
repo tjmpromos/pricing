@@ -2,7 +2,7 @@
   "caption": "Trading Pin Options",
   "footnotes": [],
   "arbitrary": true,
-  "priceMultiplier": null,
+  "priceMultiplier" : 1,
   "pricable": [
     "blinkers.red",
     "blinkers.other",

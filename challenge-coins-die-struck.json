@@ -1,7 +1,7 @@
 {
   "caption": "Die-Struck Coins (No Color)",
   "footnotes": ["* No Mold Fee for Quantities over 300 coins"],
-  "priceMultiplier" : null,
+  "priceMultiplier" : 1,
   "pricable": [
     "50",
     "100",

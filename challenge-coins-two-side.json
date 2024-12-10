@@ -1,7 +1,7 @@
 {
   "caption": "Coins with Color on Both Sides",
   "footnotes": ["* No Mold Fee for Quantities over 300 coins"],
-  "priceMultiplier" : null,
+  "priceMultiplier" : 1,
   "pricable": [
     "50",
     "100",

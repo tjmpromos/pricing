@@ -1,7 +1,7 @@
 {
   "caption": "Soft Enamel Trading Pin",
   "footnotes": [],
-  "priceMultiplier" : null,
+  "priceMultiplier" : 1,
   "pricable": [
     "100",
     "200",
