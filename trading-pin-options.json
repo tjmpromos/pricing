@@ -2,6 +2,14 @@
   "caption": "Trading Pin Options",
   "footnotes": [],
   "arbitrary": true,
+  "priceMultiplier": null,
+  "pricable": [
+    "blinkers.red",
+    "blinkers.other",
+    "glitterEnamel.price",
+    "transparentEnamel.price",
+    "screenPrintedColors.price"
+  ],
   "rows": [
     {
       "blinkers": {
@@ -10,13 +18,22 @@
       }
     },
     {
-      "glitterEnamel": "$0.12 per color / per pin"
+      "glitterEnamel": {
+        "price": 0.12,
+        "postfix": "per color / per pin"
+      }
     },
     {
-      "transparentEnamel": "$0.12 per color / per pin"
+      "transparentEnamel": {
+        "price": 0.12,
+        "postfix": "per color / per pin"
+      }
     },
     {
-      "screenPrintedColors": "$0.12 per color / per pin"
+      "screenPrintedColors": {
+        "price": 0.12,
+        "postfix": "per color / per pin"
+      }
     }
   ]
 }
