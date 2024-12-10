@@ -1,0 +1,23 @@
+{
+  "title": "Trading Pin Options",
+  "subtitle": "",
+  "footnotes": [],
+  "arbitrary": true,
+  "rows": [
+    {
+      "blinkers": {
+        "red": 0.99,
+        "other": 1.98
+      }
+    },
+    {
+      "glitterEnamel": "$0.12 per color / per pin"
+    },
+    {
+      "transparentEnamel": "$0.12 per color / per pin"
+    },
+    {
+      "screenPrintedColors": "$0.12 per color / per pin"
+    }
+  ]
+}
