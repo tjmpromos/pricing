@@ -1,6 +1,5 @@
 {
-  "title": "Trading Pin Options",
-  "subtitle": "",
+  "caption": "Trading Pin Options",
   "footnotes": [],
   "arbitrary": true,
   "priceMultiplier": 1,
@@ -9,6 +8,7 @@
     "blinkers.other",
     "glitterEnamel.price",
     "transparentEnamel.price",
+
     "screenPrintedColors.price",
     "glowEnamel",
     "simulatedGemstone.price",

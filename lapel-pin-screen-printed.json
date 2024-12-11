@@ -1,8 +1,20 @@
 {
-  "title": "Screen Printed Pins",
-  "subtitle": "",
+  "caption": "Screen Printed Pins",
   "footnotes": [
     "1 Color Included, $19.00 / Additional Color"
+  ],
+  "priceMultiplier" : 1,
+  "pricable": [
+    "100",
+    "200",
+    "300",
+    "500",
+    "750",
+    "1000",
+    "2000",
+    "3000",
+    "5000",
+    "10000"
   ],
   "rows": [
     {
