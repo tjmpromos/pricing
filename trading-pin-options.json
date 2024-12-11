@@ -3,6 +3,22 @@
   "subtitle": "",
   "footnotes": [],
   "arbitrary": true,
+  "priceMultiplier": 1,
+  "pricable": [
+    "blinkers.red",
+    "blinkers.other",
+    "glitterEnamel.price",
+    "transparentEnamel.price",
+    "screenPrintedColors.price",
+    "glowEnamel",
+    "simulatedGemstone.price",
+    "sequentialNumbering.price",
+    "cutout.price",
+    "customBackStamp.price",
+    "customScreen.price",
+    "screenPrintedColors.price",
+    "acrylicPresentationBoxes.price"
+  ],
   "rows": [
     {
       "blinkers": {
@@ -11,40 +27,81 @@
       }
     },
     {
-      "glitterEnamel": "$0.12 per color / per pin"
+      "glitterEnamel": {
+        "price": 0.12,
+        "postfix": "per color / per pin"
+      }
     },
     {
-      "transparentEnamel": "$0.12 per color / per pin"
+      "transparentEnamel": {
+        "price": 0.12,
+        "postfix": "per color / per pin"
+      }
     },
     {
-      "screenPrintedColors": "$0.12 per color / per pin"
+      "screenPrintedColors": {
+        "price": 0.12,
+        "postfix": "per color / per pin"
+      }
     },
     {
-      "glowEnamel": "$0.12 per color / per pin"
+      "glowEnamel": {
+        "price": 0.12,
+        "postfix": "per color / per pin"
+      }
     },
     {
-      "simulatedGemstone": "$0.20 each"
+      "simulatedGemstone": {
+        "price": 0.20,
+        "postfix": "each"
+      }
     },
     {
-      "sequentialNumbering": "$0.35 per pin"
+      "sequentialNumbering": {
+        "price": 0.35,
+        "postfix": "per pin"
+      }
     },
     {
-      "screenPrintedColors": "$0.12 per color / per pin"
+      "cutout": {
+        "price": 20,
+        "postfix": "per cutout"
+      }
     },
     {
-      "acrylicPresentationBoxes": "$0.35 per pin"
+      "customBackStamp": {
+        "price": 45,
+        "postfix": "per design"
+      }
     },
     {
-      "cutout": "$20 per order for each cutout"
+      "customScreen-print": {
+        "price": 19,
+        "postfix": "per design / per color"
+      }
     },
     {
-      "customBackstamp": "$45 per order"
+      "screenPrintedColors": {
+        "price": 0.12,
+        "postfix": "per color / per pin"
+      }
     },
     {
-      "customScreenprint": "$19 per order / per color"
+      "3dMold": {
+        "1/2\"": 50,
+        "3/4\"": 75,
+        "1\"": 100,
+        "1-1/4\"": 125,
+        "1-1/2\"": 150,
+        "1-3/4\"": 175,
+        "2\"": 200
+      }
     },
     {
-      "3dMold": "1/2\" ($50) | 3/4\" ($75) | 1\" ($100) | 1-1/4\" ($125) | 1-1/2\" ($150) | 1-3/4\" ($175) | 2\" ($200)"
+      "acrylicPresentationBoxes": {
+        "price": 0.35,
+        "postfix": "per pin"
+      }
     }
   ]
 }
