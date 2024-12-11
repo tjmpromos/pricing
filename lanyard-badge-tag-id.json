@@ -1,0 +1,30 @@
+{
+  "caption": "TagID Badge Holders",
+  "footnotes": ["TagID orders are shipped from a separate facility than our lanyards. Shipping rates to your location will be provided at the time of quote."],
+  "priceMultiplier" : 1,
+  "pricable": [
+    "150",
+    "250",
+    "500",
+    "1000",
+    "2000"
+  ],
+  "rows": [
+    {
+      "style": "Label Only",
+      "150": 1.45,
+      "250": 1.35,
+      "500": 1.30,
+      "1000": 1.25,
+      "2500": 1.20
+    },
+    {
+      "style": "Polydome",
+      "150": 1.55,
+      "250": 1.45,
+      "500": 1.40,
+      "1000": 1.35,
+      "2500": 1.30
+    }
+  ]
+}

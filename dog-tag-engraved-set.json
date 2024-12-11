@@ -1,0 +1,36 @@
+{
+  "caption": "Engraved Dog Tag Sets",
+  "footnotes": [],
+  "priceMultiplier" : 1,
+  "pricable": [
+    "1set",
+    "2sets",
+    "3sets",
+    "4sets",
+    "5sets",
+    "6sets",
+    "7sets"
+  ],
+  "rows": [
+    {
+      "Type": "Engraved Dog Tag Sets",
+      "1set": 16.22,
+      "2sets": 15.68,
+      "3sets": 13.52,
+      "4sets": 12.44,
+      "5sets": 11.36,
+      "6sets": 10.28,
+      "7sets": 9.73
+    },
+    {
+      "Type": "Add back print",
+      "1set": 4.16,
+      "2sets": 4.16,
+      "3sets": 4.16,
+      "4sets": 4.16,
+      "5sets": 4.16,
+      "6sets": 4.16,
+      "7sets": 4.16
+    }
+  ]
+}

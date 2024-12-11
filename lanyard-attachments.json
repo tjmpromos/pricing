@@ -1,0 +1,74 @@
+{
+  "caption": "Lanyard Attachments",
+  "footnotes": [
+    "Pricing is per attachment.",
+    "Free USA Shipping if combined with lanyards.",
+    "*One ‘Free Attachment’ is included at no cost."],
+  "priceMultiplier": 1,
+  "pricable": [
+    "bulldogClip",
+    "swivelJHook",
+    "thumbTrigger",
+    "keyRing",
+    "carabinerHook",
+    "ovalLoop",
+    "cellPhoneLoop",
+    "plasticJHook",
+    "noSwivelJHook",
+    "thumbHook"
+  ],
+  "rows": [
+    {
+      "size": "1/2\"",
+      "bulldogClip": "FREE*",
+      "swivelJHook": "FREE*",
+      "thumbTrigger": "FREE*",
+      "keyRing": "FREE*",
+      "carabinerHook": 0.15,
+      "ovalLoop": 0.09,
+      "cellPhoneLoop": 0.09,
+      "plasticJHook": 0.15,
+      "noSwivelJHook": 0.14,
+      "thumbHook": 0.15
+    },
+    {
+      "size": "5/8\"",
+      "bulldogClip": "FREE*",
+      "swivelJHook": "FREE*",
+      "thumbTrigger": "FREE*",
+      "keyRing": "FREE*",
+      "carabinerHook": 0.15,
+      "ovalLoop": 0.12,
+      "cellPhoneLoop": 0.12,
+      "plasticJHook": 0.15,
+      "noSwivelJHook": 0.14,
+      "thumbHook": 0.15
+    },
+    {
+      "size": "3/4\"",
+      "bulldogClip": "FREE*",
+      "swivelJHook": "FREE*",
+      "thumbTrigger": "FREE*",
+      "keyRing": "FREE*",
+      "carabinerHook": 0.15,
+      "ovalLoop": 0.14,
+      "cellPhoneLoop": 0.14,
+      "plasticJHook": 0.15,
+      "noSwivelJHook": 0.18,
+      "thumbHook": 0.15
+    },
+    {
+      "size": "1\"",
+      "bulldogClip": "FREE*",
+      "swivelJHook": "FREE*",
+      "thumbTrigger": "FREE*",
+      "keyRing": "FREE*",
+      "Carabiner Hook": 0.18,
+      "ovalLoop": 0.15,
+      "cellPhoneLoop": 0.15,
+      "plasticJHook": 0.18,
+      "noSwivelJHook": 0.18,
+      "thumbHook": 0.18
+    }
+  ]
+}

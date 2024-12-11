@@ -1,0 +1,41 @@
+{
+  "caption": "Lanyard Options",
+  "footnotes": ["Pricing is per attachment. Free USA Shipping if combined with lanyards."],
+  "priceMultiplier": 1,
+  "pricable": [
+    "safetyBreakaway",
+    "disconnectBuckle",
+    "adjustmentBead",
+    "multiColorImprint"
+  ],
+  "rows": [
+    {
+      "size": "1/2\"",
+      "safetyBreakaway": "FREE",
+      "disconnectBuckle": 0.12,
+      "adjustmentBead": 0.08,
+      "multiColorImprint": "$25 / 1,000"
+    },
+    {
+      "size": "5/8\"",
+      "safetyBreakaway": "FREE",
+      "disconnectBuckle": 0.14,
+      "adjustmentBead": 0.09,
+      "multiColorImprint": "$25 / 1,000"
+    },
+    {
+      "size": "3/4\"",
+      "safetyBreakaway": "FREE",
+      "disconnectBuckle": 0.14,
+      "adjustmentBead": 0.12,
+      "multiColorImprint": "$25 / 1,000"
+    },
+    {
+      "size": "1\"",
+      "safetyBreakaway": "FREE",
+      "disconnectBuckle": 0.18,
+      "adjustmentBead": 0.13,
+      "multiColorImprint": "$25 / 1,000"
+    }
+  ]
+}

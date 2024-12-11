@@ -1,0 +1,26 @@
+{
+  "caption": "Badge Holders",
+  "footnotes": ["Pricing includes free shipping to one location in the USA."],
+  "priceMultiplier" : 1,
+  "pricable": [
+    "allQuantities"
+  ],
+  "rows": [
+    {
+      "Style": "Regular Horizontal - 4.37\" W x 3\" H",
+      "allQuantities": 0.18
+    },
+    {
+      "Style": "Large Horizontal - 6\" W x 4\" H",
+      "allQuantities": 0.25
+    },
+    {
+      "Style": "Regular Vertical - 3\" W x 4.37\" H",
+      "allQuantities": 0.18
+    },
+    {
+      "Style": "Large Vertical - 4\" W x 6\" H",
+      "allQuantities": 0.25
+    }
+  ]
+}
