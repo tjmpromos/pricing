@@ -1,0 +1,29 @@
+{
+  "title": "Challenge Coin Packaging",
+  "subtitle": "",
+  "footnotes": [],
+  "arbitrary": true,
+  "rows": [
+    {
+      "pvcPouch": "Free"
+    },
+    {
+      "velvetBag": "$0.60 each"
+    },
+    {
+      "coinCapsule": "$1.00 each"
+    },
+    {
+      "velvetPresentationBox": "$3.75 each"
+    },
+    {
+      "coinStand": "$0.95 each"
+    },
+    {
+      "acrylicBox": "$1.25 each"
+    },
+    {
+      "customPouchInsert": "$1.50 each"
+    }
+  ]
+}

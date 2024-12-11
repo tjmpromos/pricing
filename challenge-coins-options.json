@@ -1,0 +1,68 @@
+{
+  "title": "Challenge Coin Options",
+  "subtitle": "",
+  "footnotes": [],
+  "arbitrary": true,
+  "rows": [
+    {
+      "epoxyCoating": "+$0.30 per side/per coin"
+    },
+    {
+      "diamondCutEdges": "+$0.30 per side/per coin"
+    },
+    {
+      "keychainAttachment": "+$0.55 per coin + cut-out fee"
+    },
+    {
+      "sequentialNumbering": "+$0.35 per side/per coin"
+    },
+    {
+      "antiquingEffect": "+$0.40 per coin"
+    },
+    {
+      "glowInTheDarkEnamel": "+$0.20 per color/per coin"
+    },
+    {
+      "glitterEnamel": "+$0.12 per color/per coin"
+    },
+    {
+      "cutOuts": "+$50.00 per cut-out (one time mold fee)"
+    },
+    {
+      "duoToneMetal": "+$0.70 per coin"
+    },
+    {
+      "blackVelvet": "+$0.60 per bag"
+    },
+    {
+      "coinStand": "+$0.95 per stand"
+    },
+    {
+      "additionalColors": "+$0.06 per color/per coin"
+    },
+    {
+      "medalRibbonAttachment": "+$0.32 per ribbon $25.00 per color"
+    },
+    {
+      "frostedMetal": "$120.00 per order (one time fee)"
+    },
+    {
+      "3DDesign": "$150 avg. addt'l"
+    },
+    {
+      "bottleOpener": "3D Mold fee + Cut-out fee"
+    },
+    {
+      "digitalOffsetPrinted": "$0.20 each"
+    },
+    {
+      "laserEngraved": "$0.35 - $0.70 each"
+    },
+    {
+      "spinner": "$225.00 + cut-cut fee"
+    },
+    {
+      "transparentEnamel": "$0.20 per coin"
+    }
+  ]
+}
