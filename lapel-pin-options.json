@@ -1,65 +1,144 @@
 {
-  "title": "Lapel Pin Options",
-  "subtitle": "",
+  "caption": "Lapel Pin Options",
   "footnotes": [],
   "arbitrary": true,
+  "priceMultiplier": 1,
+  "pricable": [
+    "butterflyClutch.price",
+    "rubberClutch.price",
+    "safetyPin",
+    "cardStock",
+    "longStickPinAndCap",
+    "setOf2PinKeepers",
+    "deluxeClutch",
+    "jewelryClutch",
+    "simulatedGemstone",
+    "1PieceMagnetBack",
+    "2PieceMagnetBack",
+    "barMagnet",
+    "screwBack",
+    "tieClip",
+    "tieTack",
+    "cuffLinks",
+    "keychain",
+    "cutout",
+    "acrylicPresentationBoxes"
+
+  ],
   "rows": [
     {
-      "butterflyClutch": "FREE"
+      "butterflyClutch": {
+        "price": "FREE",
+        "postfix": null
+      }
     },
     {
-      "rubberClutch": "FREE"
+      "rubberClutch": {
+        "price": "FREE",
+        "postfix": null
+      }
     },
     {
-      "safetyPin": "$0.10 each"
+      "safetyPin": {
+        "price": 0.10,
+        "postfix": "each"
+      }
     },
     {
-      "cardStock": "$0.10 each"
+      "cardStock": {
+        "price": 0.10,
+        "postfix": "each"
+      }
     },
     {
-      "longStickPinAndCap": "$0.12 each"
+      "longStickPinAndCap": {
+        "price": 0.12,
+        "postfix": "each"
+      }
     },
     {
-      "setOf2PinKeepers": "$1.00 each"
+      "setOf2PinKeepers": {
+        "price": 1.00,
+        "postfix": "each"
+      }
     },
     {
-      "deluxeClutch": "$0.15 each"
+      "deluxeClutch": {
+        "price": 0.15,
+        "postfix": "each"
+      }
     },
     {
-      "jewelryClutch": "$0.20 each"
+      "jewelryClutch": {
+        "price": 0.20,
+        "postfix": "each"
+      }
     },
     {
-      "simulatedGemstones": "$0.20 each"
+      "simulatedGemstone": {
+        "price": 0.20,
+        "postfix": "each"
+      }
     },
     {
-      "1PieceMagnetBack": "$0.20 each"
+      "1PieceMagnetBack": {
+        "price": 0.20,
+        "postfix": "each"
+      }
     },
     {
-      "2PieceMagnetBack": "$0.40 each"
+      "2PieceMagnetBack": {
+        "price": 0.40,
+        "postfix": "each"
+      }
     },
     {
-      "barMagnet": "$0.46 each"
+      "barMagnet": {
+        "price": 0.46,
+        "postfix": "each"
+      }
     },
     {
-      "screwBack": "$0.40 each"
+      "screwBack": {
+        "price": 0.40,
+        "postfix": "each"
+      }
     },
     {
-      "tieClip": "$0.50 each"
+      "tieClip": {
+        "price": 0.50,
+        "postfix": "each"
+      }
     },
     {
-      "tieTack": "$0.30 each"
+      "tieTack": {
+        "price": 0.30,
+        "postfix": "each"
+      }
     },
     {
-      "cuffLinks": "$0.65 each"
+      "cuffLinks": {
+        "price": 0.65,
+        "postfix": "each"
+      }
     },
     {
-      "keychain": "$0.35 each"
+      "keychain": {
+        "price": 0.35,
+        "postfix": "each"
+      }
     },
     {
-      "cut-out": "$20.00 per Cut-Out (added to order total)"
+      "cutout": {
+        "price": 20.00,
+        "postfix": "per cut out"
+      }
     },
     {
-      "acrylicPresentationBox": "$0.35 each"
+      "acrylicPresentationBoxes": {
+        "price": 0.35,
+        "postfix": "each"
+      }
     }
   ]
 }

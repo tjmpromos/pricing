@@ -1,7 +1,18 @@
 {
-  "title": "PVC 3D Patches",
-  "subtitle": "",
+  "caption": "PVC 3D Patches",
   "footnotes": [],
+  "priceMultiplier" : 1,
+  "pricable": [
+    "10",
+    "20",
+    "50",
+    "100",
+    "200",
+    "300",
+    "500",
+    "1000",
+    "2000"
+  ],
   "rows": [
     {
       "size": "1.00 Inch",

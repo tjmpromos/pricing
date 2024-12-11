@@ -1,10 +1,21 @@
 {
-  "title": "Medals with Color on One Side",
-  "subtitle": "",
+  "caption": "Medals with Color on One Side",
   "footnotes": ["* No Mold Fee for Quantities over 300 coins"],
+  "priceMultiplier" : 1,
+  "pricable": [
+    "50",
+    "100",
+    "200",
+    "300",
+    "500",
+    "1000",
+    "2000",
+    "3000",
+    "5000"
+  ],
   "rows": [
     {
-      "Coin Size": "1.50 Inch",
+      "size": "1.50 Inch",
       "50": 7.83,
       "100": 4.85,
       "200": 4.45,
@@ -17,7 +28,7 @@
       "Mold Fee*": "$100"
     },
     {
-      "Coin Size": "1.75 Inch",
+      "size": "1.75 Inch",
       "50": 8.57,
       "100": 5.37,
       "200": 5.01,
@@ -30,7 +41,7 @@
       "Mold Fee*": "$125"
     },
     {
-      "Coin Size": "2.00 Inch",
+      "size": "2.00 Inch",
       "50": 9.47,
       "100": 5.90,
       "200": 5.67,
@@ -43,7 +54,7 @@
       "Mold Fee*": "$150"
     },
     {
-      "Coin Size": "2.25 Inch",
+      "size": "2.25 Inch",
       "50": 10.74,
       "100": 7.11,
       "200": 6.84,
@@ -56,7 +67,7 @@
       "Mold Fee*": 150
     },
     {
-      "Coin Size": "2.50 Inch",
+      "size": "2.50 Inch",
       "50": 12.91,
       "100": 8.51,
       "200": 8.21,
@@ -69,7 +80,7 @@
       "Mold Fee*": 200
     },
     {
-      "Coin Size": "2.75 Inch",
+      "size": "2.75 Inch",
       "50": 15.66,
       "100": 9.17,
       "200": 8.88,
@@ -82,7 +93,7 @@
       "Mold Fee*": 250
     },
     {
-      "Coin Size": "3.00 Inch",
+      "size": "3.00 Inch",
       "50": 17.31,
       "100": 9.84,
       "200": 9.68,
