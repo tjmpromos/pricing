@@ -1,0 +1,26 @@
+{
+  "caption": "Blank Military Dog Tags",
+  "footnotes": [],
+  "priceMultiplier" : 1,
+  "pricable": [
+    "100",
+    "300",
+    "500",
+    "1000",
+    "2500",
+    "3000",
+    "5000"
+  ],
+  "rows": [
+    {
+      "Type": "Stock Military Tags",
+      "100": 0.76,
+      "300": 0.60,
+      "500": 0.44,
+      "1000": 0.41,
+      "2500": 0.38,
+      "3000": 0.33,
+      "5000": null
+    }
+  ]
+}
