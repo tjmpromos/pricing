@@ -1,0 +1,76 @@
+{
+  "caption": "Patch Options",
+  "footnotes": [],
+  "arbitrary": true,
+  "priceMultiplier": 1,
+  "pricable": [
+    "backing.standard",
+    "backing.adhesive",
+    "backing.iron-on",
+    "backing.velcro",
+    "backing.plastic",
+    "backing.sew-on-pvc",
+    "border.merrow",
+    "border.hot-cut",
+    "metallicThread.price",
+    "additionalThread.price",
+    "neonThread.price",
+    "buttonLoop.price",
+    "keychainAttachment.price",
+    "3dPuffEmbroidery.price"
+  ],
+  "rows": [
+    {
+      "backing": {
+        "standard": "FREE",
+        "adhesive": "+20% per patch",
+        "iron-on": "+$0.11 per patch",
+        "velcro": "+25% per patch",
+        "plastic": "+$0.11 per patch",
+        "sew-on-pvc": "FREE"
+      }
+    },
+    {
+      "border": {
+        "merrow": "FREE",
+        "hot-cut": "+$0.11 per patch"
+      }
+    },
+    {
+      "metallicThread": {
+        "price": "+20%",
+        "postfix": "per patch"
+      }
+    },
+    {
+      "additionalThread": {
+        "price": "+$0.11",
+        "postfix": "per patch"
+      }
+    },
+    {
+      "neonThread": {
+        "price": "+$0.11",
+        "postfix": "per patch"
+      }
+    },
+    {
+      "buttonLoop": {
+        "price": "+$0.11",
+        "postfix": "per patch"
+      }
+    },
+    {
+      "keychainAttachment": {
+        "price": null,
+        "postfix": null
+      }
+    },
+    {
+      "3dPuffEmbroidery": {
+        "price": "+20%",
+        "postfix": "per patch"
+      }
+    }
+  ]
+}

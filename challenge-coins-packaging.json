@@ -1,29 +1,59 @@
 {
   "title": "Challenge Coin Packaging",
-  "subtitle": "",
   "footnotes": [],
   "arbitrary": true,
+  "priceMultiplier": 1,
+  "pricable": [
+    "pvcPouch.price",
+    "velvetBag.price",
+    "coinCapsule.price",
+    "velvetPresentationBox.price",
+    "coinStand.price",
+    "acrylicBox.price",
+    "customPouchInsert.price"
+  ],
   "rows": [
     {
-      "pvcPouch": "Free"
+      "pvcPouch": {
+        "price": "FREE",
+        "postfix": null
+      }
     },
     {
-      "velvetBag": "$0.60 each"
+      "velvetBag": {
+        "price": 0.60,
+        "postfix": "each"
+      }
     },
     {
-      "coinCapsule": "$1.00 each"
+      "coinCapsule": {
+        "price": 1.00,
+        "postfix": "each"
+      }
     },
     {
-      "velvetPresentationBox": "$3.75 each"
+      "velvetPresentationBox": {
+        "price": 3.75,
+        "postfix": "each"
+      }
     },
     {
-      "coinStand": "$0.95 each"
+      "coinStand": {
+        "price": 0.95,
+        "postfix": "each"
+      }
     },
     {
-      "acrylicBox": "$1.25 each"
+      "acrylicBox": {
+        "price": 1.25,
+        "postfix": "each"
+      }
     },
     {
-      "customPouchInsert": "$1.50 each"
+      "customPouchInsert": {
+        "price": 1.50,
+        "postfix": "each"
+      }
     }
   ]
 }

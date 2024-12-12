@@ -1,11 +1,22 @@
 {
-  "title": "Die-Struck Medals (No Color)",
-  "subtitle": "",
+  "caption": "Die-Struck Medals (No Color)",
   "footnotes": ["* No Mold Fee for Quantities over 300 coins"],
+  "priceMultiplier" : 1,
+  "pricable": [
+    "50",
+    "100",
+    "200",
+    "300",
+    "500",
+    "1000",
+    "2000",
+    "3000",
+    "5000"
+  ],
   "rows": [
 
       {
-        "Coin Size": "1.50 Inch",
+        "size": "1.50 Inch",
         "50": 7.25,
         "100": 4.46,
         "200": 4.11,
@@ -18,7 +29,7 @@
         "Mold Fee*": 100
       },
       {
-        "Coin Size": "1.75 Inch",
+        "size": "1.75 Inch",
         "50": 8.21,
         "100": 4.92,
         "200": 4.48,
@@ -31,7 +42,7 @@
         "Mold Fee*": 125
       },
       {
-        "Coin Size": "2.00 Inch",
+        "size": "2.00 Inch",
         "50": 8.57,
         "100": 5.37,
         "200": 4.96,
@@ -44,7 +55,7 @@
         "Mold Fee*": 150
       },
       {
-        "Coin Size": "2.25 Inch",
+        "size": "2.25 Inch",
         "50": 10.07,
         "100": 6.71,
         "200": 5.82,
@@ -57,7 +68,7 @@
         "Mold Fee*": 150
       },
       {
-        "Coin Size": "2.50 Inch",
+        "size": "2.50 Inch",
         "50": 11.18,
         "100": 7.46,
         "200": 6.74,
@@ -67,10 +78,10 @@
         "2000": 5.45,
         "3000": 5.12,
         "5000": 4.93,
-        "Mold Fee*": 200,
+        "Mold Fee*": 200
       },
       {
-        "Coin Size": "2.75 Inch",
+        "size": "2.75 Inch",
         "50": 14.54,
         "100": 8.51,
         "200": 8.13,
@@ -83,7 +94,7 @@
         "Mold Fee*": 250
       },
       {
-        "Coin Size": "3.00 Inch",
+        "size": "3.00 Inch",
         "50": 16.48,
         "100": 9.55,
         "200": 9.47,

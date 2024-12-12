@@ -1,7 +1,15 @@
 {
-  "title": "Rush Trading Pins",
-  "subtitle": "Circle or Square",
-  "footnotes": ["**3 Day Production with Free Standard Shipping**"],
+  "caption": "Rush Trading Pins (Circle or Square)",
+  "footnotes": ["3 Day Production with Free Standard Shipping"],
+  "priceMultiplier" : 1,
+  "pricable": [
+    "100",
+    "200",
+    "300",
+    "500",
+    "750",
+    "1000"
+  ],
   "rows": [
     {
       "size": ".75\"",

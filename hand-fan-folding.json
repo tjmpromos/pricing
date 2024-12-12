@@ -1,0 +1,23 @@
+{
+  "caption": "Folding Hand Fans",
+  "footnotes": ["$55.00 (1 color / 1 location)"],
+  "priceMultiplier" : 1,
+  "pricable": [
+    "150",
+    "300",
+    "600",
+    "1200",
+    "2600"
+  ],
+  "rows": [
+    {
+      "type": "Stock (single 8\"x8\")",
+      "150": 2.40,
+      "300": 2.33,
+      "600": 2.27,
+      "1200": 2.22,
+      "2600": 2.14,
+      "+2,600": null
+    }
+  ]
+}
