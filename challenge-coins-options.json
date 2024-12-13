@@ -16,7 +16,6 @@
     "additionalColors.price",
     "medalRibbonAttachment.price",
     "frostedMetal.price",
-    "bottleOpener.price",
     "offsetPrint.price",
     "engravedText.price",
     "transparentEnamel.price"
@@ -114,7 +113,7 @@
     },
     {
       "spinner": {
-        "price": "225.00 + cut-cut fee",
+        "price": 225,
         "postfix": "per order"
       }
     },
