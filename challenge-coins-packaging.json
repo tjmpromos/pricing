@@ -4,7 +4,6 @@
   "arbitrary": true,
   "priceMultiplier": 1,
   "pricable": [
-    "pvcPouch.price",
     "velvetBag.price",
     "coinCapsule.price",
     "velvetPresentationBox.price",

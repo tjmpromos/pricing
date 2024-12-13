@@ -2,6 +2,7 @@
   "caption": "Challenge Coin Options",
   "footnotes": [],
   "arbitrary": true,
+  "priceMultiplier" : 1,
   "pricable": [
     "epoxyCoating.price",
     "diamondCutEdges.price",
