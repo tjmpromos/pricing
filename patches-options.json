@@ -61,7 +61,8 @@
     },
     {
       "keychainAttachment": {
-        "price": null
+        "price": null,
+        "postfix": ""
       }
     },
     {
