@@ -16,7 +16,6 @@
     "additionalThread.price",
     "neonThread.price",
     "buttonLoop.price",
-    "keychainAttachment.price",
     "3dPuffEmbroidery.price"
   ],
   "rows": [
@@ -62,7 +61,7 @@
     },
     {
       "keychainAttachment": {
-        "price": null,
+        "price": "CALL",
         "postfix": null
       }
     },
