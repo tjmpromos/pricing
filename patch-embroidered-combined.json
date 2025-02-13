@@ -1,6 +1,6 @@
 [
   {
-    "caption": "Minimally Embroidered Patches",
+    "caption": "Minimally Embroidered Patches (50%)",
     "footnotes": [],
     "priceMultiplier" : 1,
     "pricable": [
@@ -174,7 +174,7 @@
     ]
   },
   {
-    "caption": "Moderately Embroidered Patches",
+    "caption": "Moderately Embroidered Patches (75%)",
     "footnotes": [],
     "priceMultiplier" : 1,
     "pricable": [
@@ -348,7 +348,7 @@
     ]
   },
   {
-    "caption": "Fully Embroidered Patches",
+    "caption": "Fully Embroidered Patches (100%)",
     "footnotes": [],
     "priceMultiplier" : 1,
     "pricable": [
