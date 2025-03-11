@@ -1,0 +1,26 @@
+{
+  "caption": "Pricing for Pin Bags",
+  "footnotes": [
+    "$25 setup fee for quantities under 11",
+    "$6 per bag for text only decoration",
+    "$12 per bag for text and logo decoration"
+  ],
+  "priceMultiplier": 1,
+  "pricable": [
+    "1 Bag",
+    "2-5 Bags",
+    "6-10 Bags",
+    "11-20 Bags",
+    "20+ Bags"
+  ],
+  "rows": [
+    {
+      "": "Any Color",
+      "1 Bag": 28.57,
+      "2-5 Bags": 25.39,
+      "6-10 Bags": 23.27,
+      "11-20 Bags": 19.03,
+      "20+ Bags": 17.97
+    }
+  ]
+}
