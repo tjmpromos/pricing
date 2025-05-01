@@ -4,7 +4,7 @@
   "arbitrary": true,
   "priceMultiplier": 1,
   "pricable": [
-    "backing.standard",
+    "backing.sew-on",
     "backing.adhesive",
     "backing.iron-on",
     "backing.velcro",
