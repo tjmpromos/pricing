@@ -1,1 +1,1 @@
-# Temporary pricing files used for API
+# Temporary pricing files used for Backend API
