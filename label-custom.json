@@ -1,0 +1,67 @@
+{
+  "caption": "Custom Shape Labels",
+  "footnotes": ["Pricing in square inches and includes one of these standard label stocks with permanent adhesive: 60# High Gloss - 60# Semi Gloss - 60# Matte Gloss",
+  "Additional label stocks are available. Call for quote: 2.4 Mil White Polypropylene - 2.6 Mil Clear Polypropylene - 60# Linen 60# Classic Laid - 50# Brown Kraft - 60# Laser - 60# Ultra Removable",
+  "NOTE: We recommend using matte finish if writing is needed on your labels."],
+  "priceMultiplier": 1,
+  "pricable": [
+    "500",
+    "1000",
+    "2500",
+    "5000",
+    "10000"
+  ],
+
+  "rows": [
+    {
+      "size": "\"1.0\" - 3.75\"",
+      "item": "LCY1",
+      "500": 0.508,
+      "1000": 0.275,
+      "2000": 0.150,
+      "3000": 0.104,
+      "5000": 0.070,
+      "10000": 0.038
+    },
+    {
+      "size": "\"3.76\" - 5.0\"",
+      "item": "LCY2",
+      "500": 0.837,
+      "1000": 0.469,
+      "2000": 0.248,
+      "3000": 0.172,
+      "5000": 0.112,
+      "10000": 0.066
+    },
+    {
+      "size": "\"5.01\" - 7.0\"",
+      "item": "LCY3",
+      "500": 0.860,
+      "1000": 0.515,
+      "2000": 0.278,
+      "3000": 0.197,
+      "5000": 0.131,
+      "10000": 0.086
+    },
+    {
+      "size": "\"7.01\" - 11.0\"",
+      "item": "LCY4",
+      "500": 1.020,
+      "1000": 0.558,
+      "2000": 0.292,
+      "3000": 0.203,
+      "5000": 0.138,
+      "10000": 0.095
+    },
+    {
+      "size": "\"11.01\" - 16.0\"",
+      "item": "LCY5",
+      "500": 1.070,
+      "1000": 0.597,
+      "2000": 0.312,
+      "3000": 0.222,
+      "5000": 0.156,
+      "10000": 0.105
+    }
+  ]
+}
