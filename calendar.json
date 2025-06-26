@@ -1,0 +1,30 @@
+{
+  "caption": "Calendar Pricing",
+  "footnotes": ["$20 Set-up Charge. Imprint color other than black, add $24.00. Full-color imprint, add $0.20 per piece. Envelopes, $0.16 each."],
+  "priceMultiplier" : 1,
+  "pricable": [
+    "150",
+    "300",
+    "750",
+    "1000",
+    "2500"
+  ],
+  "rows": [
+      {
+          "type": "Regular Pricing",
+          "150": 1.91,
+          "300": 1.52,
+          "750": 1.5,
+          "1000": 1.44,
+          "2500": 1.41
+      },
+      {
+          "type": "Order Online Special",
+          "150": 1.86,
+          "300": 1.47,
+          "750": 1.46,
+          "1000": 1.4,
+          "2500": 1.37
+      }
+  ]
+}

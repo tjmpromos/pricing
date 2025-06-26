@@ -1,0 +1,30 @@
+{
+  "caption": "Calendar Pad Magnets",
+  "footnotes": ["$20 Set-up Charge. Imprint color other than black, add $24.00. Full-color imprint, add $0.20 per piece. Envelopes, $0.16 each."],
+  "priceMultiplier" : 1,
+  "pricable": [
+    "100",
+    "250",
+    "500",
+    "1000",
+    "2500"
+  ],
+  "rows": [
+      {
+          "item": "BL - 5010",
+          "100": 1.461,
+          "250": 0.886,
+          "500": 0.725,
+          "1000": 0.596,
+          "2500": 0.544
+      },
+      {
+          "item": "BL - 5020",
+          "100": 1.599,
+          "250": 1.024,
+          "500": 0.863,
+          "1000": 0.711,
+          "2500": 0.669
+      }
+  ]
+}

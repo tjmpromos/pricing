@@ -1,0 +1,24 @@
+{
+  "caption": "Shaped Calendar Pads",
+  "footnotes": ["$20 Set-up Charge. Imprint color other than black, add $24.00. Full-color imprint, add $0.20 per piece. Envelopes, $0.16 each."],
+  "priceMultiplier" : 1,
+  "pricable": [
+    "100",
+    "250",
+    "500",
+    "1000",
+    "2500",
+    "5000"
+  ],
+  "rows": [
+      {
+          "item": "BL5050 - BL5054",
+          "100": 1.507,
+          "250": 0.955,
+          "500": 0.794,
+          "1000": 0.659,
+          "2500": 0.616,
+          "5000": "CALL"
+      }
+  ]
+}
