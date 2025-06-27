@@ -1,7 +1,7 @@
 {
   "caption": "Blank Bottle Opener Dog Tags",
   "footnotes": [],
-  "priceMultiplier" : 1,
+  "priceMultiplier": 1,
   "pricable": [
     "100",
     "300",
@@ -14,12 +14,12 @@
   "rows": [
     {
       "Type": "Stock Bottle Opener Tags",
-      "100": 1.41,
-      "300": 1.30,
-      "500": 1.20,
-      "1000": 1.08,
-      "2500": 0.98,
-      "3000": 0.87,
+      "100": 1.5,
+      "300": 1.38,
+      "500": 1.28,
+      "1000": 1.15,
+      "2500": 1.04,
+      "3000": 0.93,
       "5000": null
     }
   ]

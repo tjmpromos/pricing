@@ -1,7 +1,9 @@
 {
   "caption": "Debossed Wristbands (Quantities below 50)",
-  "footnotes": ["Quantities 1-49 are available in a limited color supply. Please check with a sales rep to know which stock colors are available."],
-  "priceMultiplier" : 1,
+  "footnotes": [
+    "Quantities 1-49 are available in a limited color supply. Please check with a sales rep to know which stock colors are available."
+  ],
+  "priceMultiplier": 1,
   "pricable": [
     "frontMessage",
     "backMessage",
@@ -14,32 +16,32 @@
   "rows": [
     {
       "Quantity": "1-9",
-      "frontMessage": 5.15,
-      "backMessage": 0.25,
-      "addClipart": 0.10,
-      "groundShipping": 7.00,
-      "twoDayShipping": 19.00,
-      "oneDayShipping": 24.00,
+      "frontMessage": 5.46,
+      "backMessage": 0.27,
+      "addClipart": 0.11,
+      "groundShipping": 7.42,
+      "twoDayShipping": 20.14,
+      "oneDayShipping": 25.44,
       "oneDayProduction": "+30%"
     },
     {
       "Quantity": "10-24",
-      "frontMessage": 2.97,
-      "backMessage": 0.25,
-      "addClipart": 0.10,
-      "groundShipping": 12.00,
-      "twoDayShipping": 24.00,
-      "oneDayShipping": 33.00,
+      "frontMessage": 3.15,
+      "backMessage": 0.27,
+      "addClipart": 0.11,
+      "groundShipping": 12.72,
+      "twoDayShipping": 25.44,
+      "oneDayShipping": 34.99,
       "oneDayProduction": "+30%"
     },
     {
       "Quantity": "25-49",
-      "frontMessage": 2.07,
-      "backMessage": 0.25,
-      "addClipart": 0.10,
-      "groundShipping": 15.00,
-      "twoDayShipping": 29.00,
-      "oneDayShipping": 39.00,
+      "frontMessage": 2.2,
+      "backMessage": 0.27,
+      "addClipart": 0.11,
+      "groundShipping": 15.9,
+      "twoDayShipping": 30.74,
+      "oneDayShipping": 41.34,
       "oneDayProduction": "+30%"
     }
   ]
