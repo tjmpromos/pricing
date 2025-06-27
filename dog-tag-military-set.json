@@ -1,7 +1,7 @@
 {
   "caption": "Military Dog Tag Sets",
   "footnotes": [],
-  "priceMultiplier" : 1,
+  "priceMultiplier": 1,
   "pricable": [
     "1set",
     "2sets",
@@ -14,23 +14,23 @@
   "rows": [
     {
       "Type": "Steel Dog Tag Sets",
-      "1set": 10.82,
-      "2sets": 10.28,
-      "3sets": 9.73,
-      "4sets": 9.46,
-      "5sets": 8.92,
-      "6sets": 8.65,
-      "7sets": 8.38
+      "1set": 11.47,
+      "2sets": 10.9,
+      "3sets": 10.32,
+      "4sets": 10.03,
+      "5sets": 9.46,
+      "6sets": 9.17,
+      "7sets": 8.89
     },
     {
       "Type": "Brass Dog Tag Sets",
-      "1set": 12.98,
-      "2sets": 12.44,
-      "3sets": 11.90,
-      "4sets": 11.36,
-      "5sets": 10.82,
-      "6sets": 10.28,
-      "7sets": 9.73
+      "1set": 13.76,
+      "2sets": 13.19,
+      "3sets": 12.62,
+      "4sets": 12.05,
+      "5sets": 11.47,
+      "6sets": 10.9,
+      "7sets": 10.32
     }
   ]
 }

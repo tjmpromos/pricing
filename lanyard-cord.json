@@ -1,7 +1,9 @@
 {
   "caption": "Cord Lanyards",
-  "footnotes": ["Pricing includes 1 free attachment, full one-color print, and free shipping to one location in the USA."],
-  "priceMultiplier" : 1,
+  "footnotes": [
+    "Pricing includes 1 free attachment, full one-color print, and free shipping to one location in the USA."
+  ],
+  "priceMultiplier": 1,
   "pricable": [
     "100",
     "250",
@@ -14,13 +16,13 @@
   "rows": [
     {
       "size": "5mm",
-      "100": 2.41,
-      "250": 2.15,
-      "500": 1.20,
-      "1000": 0.98,
-      "2000": 0.93,
-      "3000": 0.82,
-      "5000": 0.76
+      "100": 2.56,
+      "250": 2.28,
+      "500": 1.28,
+      "1000": 1.04,
+      "2000": 0.99,
+      "3000": 0.87,
+      "5000": 0.81
     }
   ]
 }
