@@ -3,7 +3,8 @@
   "footnotes": [
     "Pricing is per attachment.",
     "Free USA Shipping if combined with lanyards.",
-    "*One ‘Free Attachment’ is included at no cost."],
+    "*One ‘Free Attachment’ is included at no cost."
+  ],
   "priceMultiplier": 1,
   "pricable": [
     "bulldogClip",
@@ -18,6 +19,32 @@
     "thumbHook"
   ],
   "rows": [
+    {
+      "size": "13/64\"",
+      "bulldogClip": "FREE*",
+      "swivelJHook": "FREE*",
+      "thumbTrigger": "FREE*",
+      "keyRing": "FREE*",
+      "carabinerHook": 0.15,
+      "ovalLoop": 0.09,
+      "cellPhoneLoop": 0.09,
+      "plasticJHook": 0.15,
+      "noSwivelJHook": 0.14,
+      "thumbHook": 0.15
+    },
+    {
+      "size": "3/8\"",
+      "bulldogClip": "FREE*",
+      "swivelJHook": "FREE*",
+      "thumbTrigger": "FREE*",
+      "keyRing": "FREE*",
+      "carabinerHook": 0.15,
+      "ovalLoop": 0.09,
+      "cellPhoneLoop": 0.09,
+      "plasticJHook": 0.15,
+      "noSwivelJHook": 0.14,
+      "thumbHook": 0.15
+    },
     {
       "size": "1/2\"",
       "bulldogClip": "FREE*",
