@@ -4,132 +4,217 @@
   "arbitrary": true,
   "priceMultiplier": 1,
   "pricable": [
-    "safetyPin",
-    "cardStock",
-    "longStickPinAndCap",
-    "setOf2PinKeepers",
-    "deluxeClutch",
-    "jewelryClutch",
-    "simulatedGemstone",
-    "1PieceMagnetBack",
-    "2PieceMagnetBack",
-    "barMagnet",
-    "screwBack",
-    "tieClip",
-    "tieTack",
+    "translucentEnamelColors",
+    "glitterEnamelColors",
+    "glowEnamelColors",
+    "gemstones",
+    "blinkersRed",
+    "blinkersOtherColor",
+    "cutout",
+    "8mmPostButterflyClutch",
+    "8mmPostButterflyClutchX2",
+    "8mmPostDeluxeClutch",
+    "8mmPostDeluxeClutchX2",
+    "8mmPostJewelryClutch",
+    "8mmPostJewelryClutchX2",
+    "8mmPostRubberClutch",
+    "8mmPostRubberClutchX2",
+    "barApparelMagnet",
     "cuffLinks",
     "keychain",
-    "cutout",
+    "longStickPinAndCap",
+    "mountingMagnet",
+    "pinKeepersSet",
+    "pinKeepersSetX2",
+    "safetyPin",
+    "screwBack",
+    "screwBackThreadedWithLockNut",
+    "screwBackX2",
+    "tieClip",
+    "tieTack",
+    "twoPieceApparelMagnet",
+    "cardStock",
     "acrylicPresentationBoxes"
-
   ],
   "rows": [
     {
-      "butterflyClutch": {
-        "price": "FREE",
-        "postfix": null
+      "translucentEnamelColors": {
+        "price": 0.16,
+        "postfix": "per color / per pin"
       }
     },
     {
-      "rubberClutch": {
+      "glitterEnamelColors": {
+        "price": 0.16,
+        "postfix": "per color / per pin"
+      }
+    },
+    {
+      "glowEnamelColors": {
+        "price": 0.16,
+        "postfix": "per color / per pin"
+      }
+    },
+    {
+      "gemstones": {
+        "price": 0.27,
+        "postfix": "per gemstone / per pin"
+      }
+    },
+    {
+      "blinkersRed": {
+        "price": 1.37,
+        "postfix": "per blinker / per pin"
+      }
+    },
+    {
+      "blinkersOtherColor": {
+        "price": 2.43,
+        "postfix": "per blinker / per pin"
+      }
+    },
+    {
+      "cutout": {
+        "price": 26.50,
+        "postfix": "per cutout"
+      }
+    },
+    {
+      "8mmPostButterflyClutch": {
         "price": "FREE",
-        "postfix": null
+        "postfix": "per pin"
+      }
+    },
+    {
+      "8mmPostButterflyClutchX2": {
+        "price": 0.03,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "8mmPostDeluxeClutch": {
+        "price": 0.16,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "8mmPostDeluxeClutchX2": {
+        "price": 0.32,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "8mmPostJewelryClutch": {
+        "price": 0.22,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "8mmPostJewelryClutchX2": {
+        "price": 0.43,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "8mmPostRubberClutch": {
+        "price": "FREE",
+        "postfix": "per pin"
+      }
+    },
+    {
+      "8mmPostRubberClutchX2": {
+        "price": 0.03,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "barApparelMagnet": {
+        "price": 0.49,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "cuffLinks": {
+        "price": 0.69,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "keychain": {
+        "price": 0.38,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "longStickPinAndCap": {
+        "price": 0.13,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "mountingMagnet": {
+        "price": 0.22,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "pinKeepersSet": {
+        "price": 1.06,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "pinKeepersSetX2": {
+        "price": 2.12,
+        "postfix": "per pin"
       }
     },
     {
       "safetyPin": {
-        "price": 0.10,
-        "postfix": "each"
+        "price": 0.11,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "screwBack": {
+        "price": 0.43,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "screwBackThreadedWithLockNut": {
+        "price": 0.43,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "screwBackX2": {
+        "price": 0.85,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "tieClip": {
+        "price": 0.53,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "tieTack": {
+        "price": 0.32,
+        "postfix": "per pin"
+      }
+    },
+    {
+      "twoPieceApparelMagnet": {
+        "price": 0.43,
+        "postfix": "per pin"
       }
     },
     {
       "cardStock": {
         "price": 0.10,
-        "postfix": "each"
-      }
-    },
-    {
-      "longStickPinAndCap": {
-        "price": 0.12,
-        "postfix": "each"
-      }
-    },
-    {
-      "setOf2PinKeepers": {
-        "price": 1.00,
-        "postfix": "each"
-      }
-    },
-    {
-      "deluxeClutch": {
-        "price": 0.15,
-        "postfix": "each"
-      }
-    },
-    {
-      "jewelryClutch": {
-        "price": 0.20,
-        "postfix": "each"
-      }
-    },
-    {
-      "simulatedGemstone": {
-        "price": 0.20,
-        "postfix": "each"
-      }
-    },
-    {
-      "1PieceMagnetBack": {
-        "price": 0.20,
-        "postfix": "each"
-      }
-    },
-    {
-      "2PieceMagnetBack": {
-        "price": 0.40,
-        "postfix": "each"
-      }
-    },
-    {
-      "barMagnet": {
-        "price": 0.46,
-        "postfix": "each"
-      }
-    },
-    {
-      "screwBack": {
-        "price": 0.40,
-        "postfix": "each"
-      }
-    },
-    {
-      "tieClip": {
-        "price": 0.50,
-        "postfix": "each"
-      }
-    },
-    {
-      "tieTack": {
-        "price": 0.30,
-        "postfix": "each"
-      }
-    },
-    {
-      "cuffLinks": {
-        "price": 0.65,
-        "postfix": "each"
-      }
-    },
-    {
-      "keychain": {
-        "price": 0.35,
-        "postfix": "each"
-      }
-    },
-    {
-      "cutout": {
-        "price": 20.00,
-        "postfix": "per cut out"
+        "postfix": "per pin"
       }
     },
     {
