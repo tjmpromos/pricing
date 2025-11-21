@@ -25,7 +25,7 @@
         "adhesive": "+20% per patch",
         "iron-on": "+$0.12 per patch",
         "velcro": "+25% per patch",
-        "plastic": "+$0.11 per patch",
+        "plastic": "+$0.12 per patch",
         "sew-on-pvc": "FREE"
       }
     },
@@ -43,19 +43,19 @@
     },
     {
       "additionalThread": {
-        "price": "+$0.11",
+        "price": "+$0.12",
         "postfix": "per patch"
       }
     },
     {
       "neonThread": {
-        "price": "+$0.11",
+        "price": "+20%",
         "postfix": "per patch"
       }
     },
     {
       "buttonLoop": {
-        "price": "+$0.11",
+        "price": "+$0.12",
         "postfix": "per patch"
       }
     },
