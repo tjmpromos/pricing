@@ -9,7 +9,8 @@
     "velvetPresentationBox.price",
     "coinStand.price",
     "acrylicBox.price",
-    "customPouchInsert.price"
+    "customPouchInsert.price",
+    "magneticAcrylicCase.price"
   ],
   "rows": [
     {
@@ -51,6 +52,12 @@
     {
       "customPouchInsert": {
         "price": 1.50,
+        "postfix": "each"
+      }
+    },
+    {
+      "magneticAcrylicCase": {
+        "price": 3.75,
         "postfix": "each"
       }
     }

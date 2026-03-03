@@ -34,7 +34,8 @@
     "tieTack",
     "twoPieceApparelMagnet",
     "cardStock",
-    "acrylicPresentationBoxes"
+    "acrylicPresentationBoxes",
+    "magneticAcrylicCase"
   ],
   "rows": [
     {
@@ -220,6 +221,12 @@
     {
       "acrylicPresentationBoxes": {
         "price": 0.35,
+        "postfix": "each"
+      }
+    },
+    {
+      "magneticAcrylicCase": {
+        "price": 2.50,
         "postfix": "each"
       }
     }
