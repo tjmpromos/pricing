@@ -17,6 +17,7 @@
     "customScreen.price",
     "3dMold.price",
     "acrylicPresentationBoxes.price",
+    "magneticAcrylicCase.price",
     "rubberClutch.price",
     "butterflyClutch.price",
     "safetyPin.price",
@@ -104,6 +105,12 @@
       "acrylicPresentationBoxes": {
         "price": 0.35,
         "postfix": "per pin"
+      }
+    },
+    {
+      "magneticAcrylicCase": {
+        "price": 2.50,
+        "postfix": "each"
       }
     },
     {
