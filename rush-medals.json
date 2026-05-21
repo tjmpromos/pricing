@@ -1,0 +1,105 @@
+{
+  "caption": "Rush Express Medals (Neckband Included)",
+  "footnotes": [
+    "Pricing includes assembled neckband with quick clip."
+  ],
+  "priceMultiplier": 1,
+  "pricable": [
+    "50",
+    "100",
+    "300",
+    "500"
+  ],
+  "rows": [
+    {
+      "style": "Express Antique Classic Legacy Insert Medallion",
+      "size": "2\"",
+      "metalFinish": "Gold",
+      "sku": "EXPRESSCLM120-004",
+      "50": 4.7,
+      "100": 4.28,
+      "300": 3.9,
+      "500": 3.54
+    },
+    {
+      "style": "Express Antique Classic Legacy Insert Medallion",
+      "size": "2\"",
+      "metalFinish": "Silver",
+      "sku": "EXPRESSCLM120-005",
+      "50": 4.7,
+      "100": 4.28,
+      "300": 3.9,
+      "500": 3.54
+    },
+    {
+      "style": "Express Antique Classic Legacy Insert Medallion",
+      "size": "2\"",
+      "metalFinish": "Bronze",
+      "sku": "EXPRESSCLM120-006",
+      "50": 4.7,
+      "100": 4.28,
+      "300": 3.9,
+      "500": 3.54
+    },
+    {
+      "style": "Express Diamond Border Coin Edge Insert",
+      "size": "1.75\"",
+      "metalFinish": "Gold",
+      "sku": "EXPRESS022B-001",
+      "50": 5.16,
+      "100": 4.7,
+      "300": 4.28,
+      "500": 3.88
+    },
+    {
+      "style": "Express Diamond Border Coin Edge Insert",
+      "size": "1.75\"",
+      "metalFinish": "Silver",
+      "sku": "EXPRESS022B-002",
+      "50": 5.16,
+      "100": 4.7,
+      "300": 4.28,
+      "500": 3.88
+    },
+    {
+      "style": "Express Diamond Border Coin Edge Insert",
+      "size": "1.75\"",
+      "metalFinish": "Bronze",
+      "sku": "EXPRESS022B-003",
+      "50": 5.16,
+      "100": 4.7,
+      "300": 4.28,
+      "500": 3.88
+    },
+    {
+      "style": "Express Insert",
+      "size": "2.125\"",
+      "metalFinish": "Gold",
+      "sku": "EXPRESS050A-001",
+      "50": 5.16,
+      "100": 4.7,
+      "300": 4.28,
+      "500": 3.88
+    },
+    {
+      "style": "Express Insert",
+      "size": "2.125\"",
+      "metalFinish": "Silver",
+      "sku": "EXPRESS050A-002",
+      "50": 5.16,
+      "100": 4.7,
+      "300": 4.28,
+      "500": 3.88
+    },
+    {
+      "style": "Express Insert",
+      "size": "2.125\"",
+      "metalFinish": "Bronze",
+      "sku": "EXPRESS050A-003",
+      "50": 5.16,
+      "100": 4.7,
+      "300": 4.28,
+      "500": 3.88
+    }
+  ]
+}

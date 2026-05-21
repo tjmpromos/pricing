@@ -1,0 +1,135 @@
+{
+  "caption": "Rush Medal Neckbands (Assembled w/Quick Clip)",
+  "footnotes": [
+    "1.5\" x 34\" neckband, assembled with quick clip."
+  ],
+  "priceMultiplier": 1,
+  "pricable": [
+    "50",
+    "100",
+    "300",
+    "500"
+  ],
+  "rows": [
+    {
+      "color": "Red/White/Blue",
+      "sku": "ATTACHEDNB01",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "Black",
+      "sku": "ATTACHEDNB36",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "Blue",
+      "sku": "ATTACHEDNB02",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "Red",
+      "sku": "ATTACHEDNB03",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "Navy",
+      "sku": "ATTACHEDNB29",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "Purple",
+      "sku": "ATTACHEDNB07",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "Teal",
+      "sku": "ATTACHEDNB78",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "White",
+      "sku": "ATTACHEDNB04",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "Green",
+      "sku": "ATTACHEDNB05",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "Gold",
+      "sku": "ATTACHEDNB28",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "Orange",
+      "sku": "ATTACHEDNB72",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "Pink",
+      "sku": "ATTACHEDNB73",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "Carolina Blue",
+      "sku": "ATTACHEDNB71",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "Hunter Green",
+      "sku": "ATTACHEDNB06",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    },
+    {
+      "color": "Athletic Grey",
+      "sku": "ATTACHEDNB88",
+      "50": 0.84,
+      "100": 0.78,
+      "300": 0.72,
+      "500": 0.66
+    }
+  ]
+}

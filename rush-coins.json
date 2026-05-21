@@ -1,0 +1,73 @@
+{
+  "caption": "Rush Express Challenge Coins",
+  "footnotes": [],
+  "priceMultiplier": 1,
+  "pricable": [
+    "50",
+    "100",
+    "300",
+    "500"
+  ],
+  "rows": [
+    {
+      "style": "Express Everyday Double Sided Coins",
+      "size": "2\" Round",
+      "metalFinish": "Gold",
+      "sku": "EXPRESSDSC15-001",
+      "50": 5.06,
+      "100": 4.6,
+      "300": 4.18,
+      "500": 3.8
+    },
+    {
+      "style": "Express Everyday Double Sided Coins",
+      "size": "2\" Round",
+      "metalFinish": "Silver",
+      "sku": "EXPRESSDSC15-002",
+      "50": 5.06,
+      "100": 4.6,
+      "300": 4.18,
+      "500": 3.8
+    },
+    {
+      "style": "Express Vibraprint® Diamond Edge Coins",
+      "size": "2\" Round",
+      "metalFinish": "Gold",
+      "sku": "EXPRESSDSC2B-004",
+      "50": 7.1,
+      "100": 6.44,
+      "300": 5.84,
+      "500": 5.3
+    },
+    {
+      "style": "Express Vibraprint® Diamond Edge Coins",
+      "size": "2\" Round",
+      "metalFinish": "Silver",
+      "sku": "EXPRESSDSC2B-005",
+      "50": 7.1,
+      "100": 6.44,
+      "300": 5.84,
+      "500": 5.3
+    },
+    {
+      "style": "Express Vibraprint® Double Sided Coins",
+      "size": "1.8125\" Round",
+      "metalFinish": "Gold",
+      "sku": "EXPRESSDSC1B-001",
+      "50": 7.1,
+      "100": 6.44,
+      "300": 5.84,
+      "500": 5.3
+    },
+    {
+      "style": "Express Vibraprint® Double Sided Coins",
+      "size": "1.8125\" Round",
+      "metalFinish": "Silver",
+      "sku": "EXPRESSDSC1B-002",
+      "50": 7.1,
+      "100": 6.44,
+      "300": 5.84,
+      "500": 5.3
+    }
+  ]
+}

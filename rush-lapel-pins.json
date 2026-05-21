@@ -1,0 +1,113 @@
+{
+  "caption": "Rush Express Lapel Pins",
+  "footnotes": [],
+  "priceMultiplier": 1,
+  "pricable": [
+    "100",
+    "300",
+    "500",
+    "1000"
+  ],
+  "rows": [
+    {
+      "style": "Express Round Lapel Pin Findings",
+      "size": "1.5\" Round",
+      "metalFinish": "Black",
+      "sku": "EXPRESSSP074-008",
+      "100": 3.08,
+      "300": 2.8,
+      "500": 2.54,
+      "1000": 2.3
+    },
+    {
+      "style": "Express Round Lapel Pin Findings",
+      "size": "1.5\" Round",
+      "metalFinish": "Gold",
+      "sku": "EXPRESSSP074-001",
+      "100": 3.08,
+      "300": 2.8,
+      "500": 2.54,
+      "1000": 2.3
+    },
+    {
+      "style": "Express Round Lapel Pin Findings",
+      "size": "1.5\" Round",
+      "metalFinish": "Silver",
+      "sku": "EXPRESSSP074-002",
+      "100": 3.08,
+      "300": 2.8,
+      "500": 2.54,
+      "1000": 2.3
+    },
+    {
+      "style": "Express Square Lapel Pin",
+      "size": "1.5\" Square",
+      "metalFinish": "Black",
+      "sku": "EXPRESSSP160-008",
+      "100": 3.08,
+      "300": 2.8,
+      "500": 2.54,
+      "1000": 2.3
+    },
+    {
+      "style": "Express Square Lapel Pin",
+      "size": "1.5\" Square",
+      "metalFinish": "Gold",
+      "sku": "EXPRESSSP160-001",
+      "100": 3.08,
+      "300": 2.8,
+      "500": 2.54,
+      "1000": 2.3
+    },
+    {
+      "style": "Express Square Lapel Pin",
+      "size": "1.5\" Square",
+      "metalFinish": "Silver",
+      "sku": "EXPRESSSP160-002",
+      "100": 3.08,
+      "300": 2.8,
+      "500": 2.54,
+      "1000": 2.3
+    },
+    {
+      "style": "Express Square Lapel Pin",
+      "size": "2\" Square",
+      "metalFinish": "Black",
+      "sku": "EXPRESSSP022",
+      "100": 3.08,
+      "300": 2.8,
+      "500": 2.54,
+      "1000": 2.3
+    },
+    {
+      "style": "Express Rectangle Lapel Pin",
+      "size": "1\" x 1.5\"",
+      "metalFinish": "Black",
+      "sku": "EXPRESSSP064-008",
+      "100": 3.08,
+      "300": 2.8,
+      "500": 2.54,
+      "1000": 2.3
+    },
+    {
+      "style": "Express Rectangle Lapel Pin",
+      "size": "1\" x 1.5\"",
+      "metalFinish": "Gold",
+      "sku": "EXPRESSSP064-001",
+      "100": 3.08,
+      "300": 2.8,
+      "500": 2.54,
+      "1000": 2.3
+    },
+    {
+      "style": "Express Rectangle Lapel Pin",
+      "size": "1\" x 1.5\"",
+      "metalFinish": "Silver",
+      "sku": "EXPRESSSP064-002",
+      "100": 3.08,
+      "300": 2.8,
+      "500": 2.54,
+      "1000": 2.3
+    }
+  ]
+}
