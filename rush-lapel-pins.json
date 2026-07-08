@@ -10,7 +10,7 @@
   ],
   "rows": [
     {
-      "style": "Express Round Lapel Pin Findings",
+      "style": "Express Round Lapel Pin",
       "size": "1.5\" Round",
       "metalFinish": "Black",
       "sku": "EXPRESSSP074-008",
@@ -20,7 +20,7 @@
       "1000": 2.3
     },
     {
-      "style": "Express Round Lapel Pin Findings",
+      "style": "Express Round Lapel Pin",
       "size": "1.5\" Round",
       "metalFinish": "Gold",
       "sku": "EXPRESSSP074-001",
@@ -30,7 +30,7 @@
       "1000": 2.3
     },
     {
-      "style": "Express Round Lapel Pin Findings",
+      "style": "Express Round Lapel Pin",
       "size": "1.5\" Round",
       "metalFinish": "Silver",
       "sku": "EXPRESSSP074-002",
@@ -108,6 +108,86 @@
       "300": 2.8,
       "500": 2.54,
       "1000": 2.3
+    },
+    {
+      "style": "Express Baseball Field Lapel Pin",
+      "size": "2\"",
+      "metalFinish": "Black",
+      "sku": "EXPRESSSPT31-007",
+      "100": 4.02,
+      "300": 3.64,
+      "500": 3.3,
+      "1000": 3
+    },
+    {
+      "style": "Express Baseball Field Lapel Pin",
+      "size": "2\"",
+      "metalFinish": "White",
+      "sku": "EXPRESSSPT31-018",
+      "100": 4.02,
+      "300": 3.64,
+      "500": 3.3,
+      "1000": 3
+    },
+    {
+      "style": "Express Baseball Field Lapel Pin",
+      "size": "2\"",
+      "metalFinish": "Gold",
+      "sku": "EXPRESSSPT31-001",
+      "100": 4.02,
+      "300": 3.64,
+      "500": 3.3,
+      "1000": 3
+    },
+    {
+      "style": "Express Baseball Field Lapel Pin",
+      "size": "2\"",
+      "metalFinish": "Silver",
+      "sku": "EXPRESSSPT31-002",
+      "100": 4.02,
+      "300": 3.64,
+      "500": 3.3,
+      "1000": 3
+    },
+    {
+      "style": "Express Home Plate Lapel Pin",
+      "size": "2\"",
+      "metalFinish": "Black",
+      "sku": "EXPRESSSPT30-007",
+      "100": 4.02,
+      "300": 3.64,
+      "500": 3.3,
+      "1000": 3
+    },
+    {
+      "style": "Express Home Plate Lapel Pin",
+      "size": "2\"",
+      "metalFinish": "White",
+      "sku": "EXPRESSSPT30-018",
+      "100": 4.02,
+      "300": 3.64,
+      "500": 3.3,
+      "1000": 3
+    },
+    {
+      "style": "Express Home Plate Lapel Pin",
+      "size": "2\"",
+      "metalFinish": "Gold",
+      "sku": "EXPRESSSPT30-001",
+      "100": 4.02,
+      "300": 3.64,
+      "500": 3.3,
+      "1000": 3
+    },
+    {
+      "style": "Express Home Plate Lapel Pin",
+      "size": "2\"",
+      "metalFinish": "Silver",
+      "sku": "EXPRESSSPT30-002",
+      "100": 4.02,
+      "300": 3.64,
+      "500": 3.3,
+      "1000": 3
     }
   ]
 }
