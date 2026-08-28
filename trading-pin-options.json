@@ -8,6 +8,7 @@
     "blinkers.other",
     "glitterEnamel.price",
     "transparentEnamel.price",
+    "colorChangingEnamel.price",
     "glowEnamel.price",
     "screenPrintedColors.price",
     "simulatedGemstone.price",
@@ -43,6 +44,12 @@
         "postfix": "per color / per pin"
       }
     },
+    {
+      "colorChangingEnamel":{
+        "price": 0.35,
+        "postfix": "per color / per pin"
+      }
+    }
     {
       "glowEnamel": {
         "price": 0.16,
