@@ -1,9 +1,8 @@
 {
   "caption": "Pricing for Pin Bags",
   "footnotes": [
-    "$25 setup fee for quantities under 11",
-    "$6 per bag for text only decoration",
-    "$12 per bag for text and logo decoration"
+    "Prices shown are per bag",
+    "$25 setup fee for decorated quantities under 11"
   ],
   "priceMultiplier": 1,
   "pricable": [
@@ -15,12 +14,36 @@
   ],
   "rows": [
     {
-      "": "Any Color",
+      "": "Blank Bag",
       "1 Bag": 28.57,
       "2-5 Bags": 25.39,
       "6-10 Bags": 23.27,
       "11-20 Bags": 19.03,
       "20+ Bags": 17.97
+    },
+    {
+      "": "Text-Only Embroidery",
+      "1 Bag": 34.57,
+      "2-5 Bags": 31.39,
+      "6-10 Bags": 29.27,
+      "11-20 Bags": 25.03,
+      "20+ Bags": 23.97
+    },
+    {
+      "": "Text + Logo Embroidery",
+      "1 Bag": 40.57,
+      "2-5 Bags": 37.39,
+      "6-10 Bags": 35.27,
+      "11-20 Bags": 31.03,
+      "20+ Bags": 29.97
+    },
+    {
+      "": "Full-Color Print",
+      "1 Bag": 40.57,
+      "2-5 Bags": 37.39,
+      "6-10 Bags": 35.27,
+      "11-20 Bags": 31.03,
+      "20+ Bags": 29.97
     }
   ]
 }
