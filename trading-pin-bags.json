@@ -45,5 +45,47 @@
       "11-20 Bags": 31.03,
       "20+ Bags": 29.97
     }
+  ],
+  "colors": [
+    {
+      "name": "Navy Blue",
+      "hexadecimal": "1E2951"
+    },
+    {
+      "name": "Forest Green",
+      "hexadecimal": "36756A"
+    },
+    {
+      "name": "Orange",
+      "hexadecimal": "DE7D24"
+    },
+    {
+      "name": "Hot Pink",
+      "hexadecimal": "F05177"
+    },
+    {
+      "name": "Purple",
+      "hexadecimal": "5B4588"
+    },
+    {
+      "name": "Yellow",
+      "hexadecimal": "EDDF3E"
+    },
+    {
+      "name": "Black",
+      "hexadecimal": "000000"
+    },
+    {
+      "name": "Royal Blue",
+      "hexadecimal": "2F56C4"
+    },
+    {
+      "name": "Pink",
+      "hexadecimal": "F2A2C0"
+    },
+    {
+      "name": "Red",
+      "hexadecimal": "E12B48"
+    }
   ]
-}
+ }
