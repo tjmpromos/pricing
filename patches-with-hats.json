@@ -1,0 +1,46 @@
+{
+  "caption": "Hats with Patches",
+  "footnotes": [],
+  "priceMultiplier": 1,
+  "pricable": [
+    "1",
+    "6",
+    "12",
+    "24",
+    "36"
+  ],
+  "rows": [
+    {
+      "style": "X210P The Original Performance Cap",
+      "1": 30,
+      "6": 28,
+      "12": 26,
+      "24": 24,
+      "36": 22
+    },
+    {
+      "style": "112 Richardson Trucker Cap",
+      "1": 26,
+      "6": 24,
+      "12": 22,
+      "24": 21,
+      "36": 20
+    },
+    {
+      "style": "356 Richardson 5-Panel Relaxed Gramps",
+      "1": 26,
+      "6": 24,
+      "12": 22,
+      "24": 21,
+      "36": 20
+    },
+    {
+      "style": "112PFP Richardson Printed Five-Panel Trucker",
+      "1": 28,
+      "6": 26,
+      "12": 24,
+      "24": 22,
+      "36": 21
+    }
+  ]
+}
