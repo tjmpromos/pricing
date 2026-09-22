@@ -1,0 +1,40 @@
+{
+  "caption": "Full Color Hand Fan Prices",
+  "footnotes": [
+    "Production Time: 8 days"
+  ],
+  "priceMultiplier": 1,
+  "pricable": [
+    "100",
+    "250",
+    "500",
+    "1000",
+    "2500"
+  ],
+  "rows": [
+    {
+      "type": "Full Color 1 Sided",
+      "100": 1.91,
+      "250": 1.18,
+      "500": 0.81,
+      "1000": 0.56,
+      "2500": 0.55
+    },
+    {
+      "type": "Full Color 2 Sided",
+      "100": 2.06,
+      "250": 1.45,
+      "500": 1.05,
+      "1000": 0.85,
+      "2500": 0.76
+    },
+    {
+      "type": "Full Color Sandwich",
+      "100": 2.8,
+      "250": 1.7,
+      "500": 1.59,
+      "1000": 1.37,
+      "2500": 1.31
+    }
+  ]
+}
